@@ -1,5 +1,7 @@
 # Git & GitHub documents
 
+![cover](./cover.png)
+
 ## Table Of Content
 
 - [Git \& GitHub documents](#git--github-documents)
