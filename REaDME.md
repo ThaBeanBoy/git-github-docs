@@ -12,6 +12,8 @@
     - [Part 2](#part-2)
     - [Part 3](#part-3)
   - [Introduction to GitHub](#introduction-to-github)
+    - [Configuring git for GitHub](#configuring-git-for-github)
+    - [Getting started with git](#getting-started-with-git)
 
 ## Introduction
 
@@ -36,3 +38,11 @@ It went through how to visualise the history of a branch & all the changes made 
 Part 3 goes into how branches are made, and how to check out those branches (go into the branch). It talks about how to merge different branches. I didn't go over what happens when there are merge errors. My reasoning was that it would've overwhelmed my group members & in the event of a merge error, I would resolve it. Luckily there weren't any merge errors.
 
 ## Introduction to GitHub
+
+### Configuring git for GitHub
+
+This was a simpler document. It went over how to configure git for [github](https://github.com/) & confirming the user configuration. The configuration was done in the terminal. But I also showed how it could be done inside [Visual Studio](https://visualstudio.microsoft.com/).
+
+### Getting started with git
+
+I discussed 3 main topics in this section - cloning, pushing & pulling. This contained descriptions of how to perform these operations using [Visual Studio](https://visualstudio.microsoft.com/), [github](https://github.com/) & Git GUI.
